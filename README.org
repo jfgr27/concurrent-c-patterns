@@ -1,0 +1,6 @@
+* Concurrency C Patterns
+
+A currated list of C concurrency patterns.
+
+Please refer to the comments at the top of each file for details on each pattern.
+
