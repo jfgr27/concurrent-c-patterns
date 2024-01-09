@@ -1,3 +1,10 @@
+/*
+  Basic threading pattern.
+
+  Creates 2 threads using pthread.h library.
+  
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
