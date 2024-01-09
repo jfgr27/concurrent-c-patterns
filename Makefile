@@ -1,9 +1,8 @@
 build: *.c
 	gcc -Wall $(SCRIPT).c -o $(SCRIPT).out
 
-
 run: *.c
-	make build $(SCRIPT) && ./$(SCRIPT).out
+	gcc -Wall $(SCRIPT).c -o $(SCRIPT).out && ./$(SCRIPT).out
 
 .PHONY : clean 
 clean : 
