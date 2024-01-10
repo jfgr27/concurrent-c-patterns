@@ -1,4 +1,4 @@
-* Concurrency C Patterns
+* Concurrent C Patterns
 
 A currated list of C concurrency patterns.
 
