@@ -7,9 +7,9 @@ Please refer to the comments at the top of each file for details on each pattern
 
 Patterns include:
 
-1. `pthreads.c`: basic threading using `<pthread.h>` library.
-2. `join.c`: basic joining of threads to control threads completion before carrying on.
-3. `mutex.c`: basic program preventing/causing a race condition when mutex is/not applied.
+1. `pthreads.c` - basic threading using `<pthread.h>` library.
+2. `join.c` - basic joining of threads to control threads completion before carrying on.
+3. `mutex.c` - basic program preventing/causing a race condition when mutex is/not applied.
 
 
 ** Running
